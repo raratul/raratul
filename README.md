@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Ratul
 #### Electrical And Computer Engineer
+![Electrical And Computer Engineer](https://scontent.fdac136-1.fna.fbcdn.net/v/t1.18169-9/1043904_232604460222909_1033185300_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFvyoGkUlSAtLjNun_M_G7loGnv0ihvblSgae_SKG9uVNxTPoiPz10g7P3C-as5AMYPbQFG9-N1cRkylSKvaZpO&_nc_ohc=-U0iFJy_bJoAX_X44QD&_nc_ht=scontent.fdac136-1.fna&oh=00_AfC-VObSxbgF2NOaE3O6lrkSYJ5aJuteDS-2ibpGCi-4_g&oe=64134BEE)
+
 
 Skills: Python / C++ / REACT / JS / HTML / CSS
 
