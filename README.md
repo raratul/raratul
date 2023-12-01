@@ -1,11 +1,8 @@
 ### Hi there 👋, my name is Ratul
-#### Electrical And Computer Engineer
-![Electrical And Computer Engineer](https://scontent.fdac136-1.fna.fbcdn.net/v/t1.18169-9/1043904_232604460222909_1033185300_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFvyoGkUlSAtLjNun_M_G7loGnv0ihvblSgae_SKG9uVNxTPoiPz10g7P3C-as5AMYPbQFG9-N1cRkylSKvaZpO&_nc_ohc=-U0iFJy_bJoAX_X44QD&_nc_ht=scontent.fdac136-1.fna&oh=00_AfC-VObSxbgF2NOaE3O6lrkSYJ5aJuteDS-2ibpGCi-4_g&oe=64134BEE)
 
 
 Skills: Python / C++ / SQL / JS / Verilog / Java
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raratul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ra-tul-610020195/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bizarre.ratul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ra_ratul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@RatulRa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@kiratul5280)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.kiratul.xyz/)  
